@@ -127,4 +127,4 @@ if __name__ == '__main__':
 	
 	print (result)
 	
-	print ("http://great.stanford.edu/public/cgi-bin/greatStart.php?requestURL=%s&requestSpecies=hg19&requestName=ensGene&requestSender=UCSC%20Table%20Browser"%(result))
+	print ("http://great.stanford.edu/public/cgi-bin/greatStart.php?requestURL=%s&requestSpecies=hg19&requestName=liyc-stjude&requestSender=HemTools"%(result))
