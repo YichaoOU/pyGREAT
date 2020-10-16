@@ -1,4 +1,8 @@
 # pyGREAT
+
+https://great-help.atlassian.net/wiki/spaces/GREAT/pages/655447/Programming+Interface
+
+
 GREAT analysis, http://great.stanford.edu/public/html/, python wrapper
 
 rGREAT is the best if it works for you. But it doesn't work for me.
